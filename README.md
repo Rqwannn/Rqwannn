@@ -4,7 +4,7 @@ I am a Web Developer and Data Science, and a Master in Developing and Designing 
 
 - 🖥 11 Month in Website, 5 Month in python and several months in kotlin
 - 📱 I’m currently learning python and Android
-- 📫 How to reach me: mraqwank471@gmail.com
+- 📫 How to reach me: mraqwan471@gmail.com
 - 😄 Really want to be a desktop developer
 
 <p style="display:flex">
