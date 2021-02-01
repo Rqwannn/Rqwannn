@@ -12,6 +12,6 @@ I am a Web Developer and Data Science, and a Master in Developing and Designing 
 
  <img src="https://github-readme-stats.vercel.app/api?username=Rqwannn&show_icons=true&theme=tokyonight&bg_color=ffffff" width="59%">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rqwannn&theme=tokyonight&hide_langs_below=1&layout=compact&bg_color=ffffff" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rqwannn&theme=tokyonight&hide_langs_below=1&layout=compact&bg_color=ffffff" width="40%"/>
 
  </p>
