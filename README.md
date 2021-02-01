@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello, My Name Is Raqwan
 
-<!--
-**Rqwannn/Rqwannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Web Developer and Data Science, and a Master in Developing and Designing Mobile Applications and Websites
 
-Here are some ideas to get you started:
+- 🖥 11 Month in Website, 5 Month in python and several months in kotlin
+- 📱 I’m currently learning python and Android
+- 📫 How to reach me: mraqwank471@gmail.com
+- 😄 Really want to be a desktop developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p style="display:flex">
+
+ <img src="https://github-readme-stats.vercel.app/api?username=Rqwannn&show_icons=true&theme=tokyonight&bg_color=ffffff" width="59%">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rqwannn&theme=tokyonight&hide_langs_below=1&layout=compact&bg_color=ffffff" width="40%"/>
+
+ </p>
