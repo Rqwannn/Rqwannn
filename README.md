@@ -3,9 +3,9 @@
 I am a Web Developer and Data Science, and a Master in Developing and Designing Mobile Applications and Websites
 
 - 🖥 1 Year in Website, 6 Month in python and several months in kotlin
-- 📱 I’m currently learning Vue and Android
+- 📱 I’m currently learning Vue and Data Science
 - 📫 How to reach me: mraqwan471@gmail.com
-- 😄 Next I want to learn Nuxt JS, Django and Android
+- 😄 Next I want to learn Nuxt JS, Django and Machine Learning
 - 💬 My official language is Indonesian and I'm also studying English and German
 
 <p style="display:flex">
