@@ -1,6 +1,6 @@
 # Hello, My Name Is Raqwan
 
-I am a Web Developer and Data Science, and a Master in Developing and Designing Mobile Applications and Websites
+I am a Web Developer and Data Science, and a Masters in Developing Websites and analyzing big data
 
 - 🖥 1 Year in Website, 6 Month in python and several months in kotlin
 - 📱 I’m currently learning Vue and Data Science
