@@ -15,3 +15,7 @@ I am a Web Developer and Data Science, and a Masters in Developing Websites and 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rqwannn&theme=tokyonight&hide_langs_below=1&layout=compact&bg_color=ffffff" width="40%">
 
  </p>
+
+ [![Years Badge](https://badges.pufler.dev/years/Rqwannn)](https://badges.pufler.dev)
+ [![Repos Badge](https://badges.pufler.dev/repos/Rqwannn)](https://badges.pufler.dev)
+ [![Commits Badge](https://badges.pufler.dev/commits/weekly/Rqwannn)](https://badges.pufler.dev)
