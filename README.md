@@ -18,4 +18,3 @@ I am a Web Developer and Data Science, and a Masters in Developing Websites and 
 
 [![Years Badge](https://badges.pufler.dev/years/Rqwannn)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/Rqwannn)](https://badges.pufler.dev)
-[![Visits Badge](https://badges.pufler.dev/visits/Rqwannn/git-badges)](https://badges.pufler.dev)
