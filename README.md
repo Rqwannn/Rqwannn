@@ -3,9 +3,9 @@
 I am a Web Developer and Data Science, and a Masters in Developing Websites and analyzing big data
 
 - 🖥 1 Year in Website, 1 Year in python
-- 📱 I’m currently learning Vue and Django
+- 📱 I’m currently learning Electron JS and Django
 - 📫 How to reach me: mraqwan471@gmail.com Or Another My Email: mohwannn1@gmail.com
-- 😄 Next I want to learn Nuxt JS, Elasticsearch and Machine Learning
+- 😄 Next I want to learn Elasticsearch, Machine Learning and Deep Learning
 - 💬 My official language is Indonesian and I'm also studying English and German
 
 <p style="display:flex">
