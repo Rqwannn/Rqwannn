@@ -1,6 +1,6 @@
 # Hello, My Name Is Raqwan
 
-I am a Web Developer and Data Science, and a Masters in Developing Websites and analyzing big data
+I'm a Web Developer, Mobile app Developer and Data Science, and Masters in Website and Mobile app Development and able to analyze big data
 
 - 🖥 1 Year in Website, 1 Year in python
 - 📱 I’m currently learning Electron JS and Django
