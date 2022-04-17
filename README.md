@@ -3,9 +3,9 @@
 I'm a Web Developer, Mobile app Developer and Data Science, and Masters in Website and Mobile app Development and able to analyze big data
 
 - 🖥 1 Year in Website, 1 Year in python
-- 📱 I’m currently learning Electron JS and Django
+- 📱 I’m currently learning Electron JS , Blockchain, and Machine Learning
 - 📫 How to reach me: mraqwan471@gmail.com Or Another My Email: mohwannn1@gmail.com
-- 😄 Next I want to learn Solidity( web3.js ), Machine Learning and Deep Learning
+- 😄 Next I want to learn Ruby On Rails and VR
 - 💬 My official language is Indonesian and I'm also studying English and German
 
 <p style="display:flex">
