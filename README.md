@@ -2,7 +2,7 @@
 <img align="center" alt="Coding" width="400" src="https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
 </p>
 
-# Hello, My Name Is Raqwan
+# Hello 👋, My Name Is Raqwan
 
 I'm a Web Developer, Mobile app Developer and Data Science, and Masters in Website and Mobile app Development and able to analyze big data
 
