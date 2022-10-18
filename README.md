@@ -20,7 +20,9 @@ I'm a Web Developer, Mobile app Developer and Data Science, and Masters in Websi
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 </p>
 
-- 🖥 1 Year in Website, 1 Year in python
+## My More Information
+
+- ✏️ Gunadarma University
 - 📫 How to reach me: mraqwan471@gmail.com Or Another My Email: mohwannn1@gmail.com
 - 😄 Next I want to learn VR and Blockchain
 - 💬 My official language is Indonesian and I'm also studying English and German
@@ -34,8 +36,8 @@ I'm a Web Developer, Mobile app Developer and Data Science, and Masters in Websi
  </p>
  
  <details>
- <summary><strong>What i am learning/working</strong></summary>
-    - 🌐 Web Developer (Laravel, Django, Ruby On Rails, Vue JS, MySQL) <br>
+ <summary><strong>What i am Learning / Working</strong></summary>
+    - 🌐 Web Developer (Laravel, Django, Ruby On Rails, Vue JS, MySQL, Etc) <br>
     - 📱 Mobile Developer (Flutter & Java) <br>
     - 😣 Machine Learning & Deep Learning <br>
     - 🖥️ Robotic Process Automation
