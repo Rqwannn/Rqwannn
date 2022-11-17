@@ -32,7 +32,7 @@ I'm a Web Developer, Mobile app Developer and Data Science, and Masters in Websi
 
  <img src="https://github-readme-stats.vercel.app/api?username=Rqwannn&show_icons=true&theme=tokyonight&bg_color=fff" width="49%">
 
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rqwannn&theme=tokyonight&bg_color=fff" width="49%">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rqwannn&theme=default" width="49%">
 
  </p>
  
