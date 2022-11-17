@@ -28,11 +28,11 @@ I'm a Web Developer, Mobile app Developer and Data Science, and Masters in Websi
 - 😄 Next I want to learn VR and Cyber Security
 - 💬 My official language is Indonesian and I'm also studying English and German
 
-<p style="display:flex">
+<p style="display:flex; flex-direction:column">
 
- <img src="https://github-readme-stats.vercel.app/api?username=Rqwannn&show_icons=true&theme=tokyonight&bg_color=ffffff" width="59%">
+ <img src="https://github-readme-stats.vercel.app/api?username=Rqwannn&show_icons=true&theme=tokyonight&bg_color=000" width="50%">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rqwannn&theme=tokyonight&hide_langs_below=1&layout=compact&bg_color=ffffff" width="40%">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rqwannn&theme=tokyonight" width="50%">
 
  </p>
  
