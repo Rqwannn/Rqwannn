@@ -41,7 +41,7 @@ I'm a Web Developer, Mobile app Developer and Data Science, and Masters in Websi
     - 🌐 Web Developer (Laravel, Django, Ruby On Rails, Vue JS, MySQL, Etc) <br>
     - 📱 Mobile Developer (Flutter & Java) <br>
     - 😣 Machine Learning & Deep Learning <br>
-    - 🖥️ Robotic Process Automation
+    - 🖥️ Ethical Hacking
 </details>
 
 [![Years Badge](https://badges.pufler.dev/years/Rqwannn)](https://badges.pufler.dev)
