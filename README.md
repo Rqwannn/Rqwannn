@@ -1,6 +1,6 @@
 # Hello 👋, My Name Is Raqwan
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&color=2EF77D&center=true&vCenter=true&width=435&lines=%F0%9F%93%8A+Web+Developer;%F0%9F%92%BB+Mobile+App+Developer;%F0%9F%93%84+Love+with+Data)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&color=2EF77D&width=435&lines=%F0%9F%93%8A+Web+Developer;%F0%9F%92%BB+Mobile+App+Developer;%F0%9F%93%84+Love+with+Data)](https://git.io/typing-svg)
 
 ## 🔧 Languages and Tools that i use :
 
@@ -24,14 +24,6 @@
 - 📫 How to reach me: mraqwan471@gmail.com Or Another My Email: mohwannn1@gmail.com
 - 😄 Next I want to learn VR and Cyber Security
 - 💬 My official language is Indonesian and I'm also studying English and German
-
-<p style="display:flex;">
-
- <img src="https://github-readme-stats.vercel.app/api?username=Rqwannn&show_icons=true&theme=tokyonight&bg_color=fff" width="49%">
-
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rqwannn&theme=default" width="49%">
-
- </p>
  
  <details>
  <summary><strong>What i am Learning / Working</strong></summary>
@@ -41,5 +33,33 @@
     - 🖥️ Ethical Hacking
 </details>
 
-[![Years Badge](https://badges.pufler.dev/years/Rqwannn)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/Rqwannn)](https://badges.pufler.dev)
+<summary><h2>📃 My Stats</h2></summary>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rqwannn&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=fb8c00&text_color=ffffff&langs_count=10&border_color=0d1117)&nbsp;&nbsp;&nbsp;
+![Manabil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rqwannn&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=fb8c00&text_color=ffffff&icon_color=39d353&border_color=0d1117)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rqwannn&theme=dark&bg_color=0d1117" alt="Rqwannn" /></p>
+
+![](https://activity-graph.herokuapp.com/graph?username=Rqwannn&theme=gotham)
+
+</details>
+
+</div>
+
+<div align="center">
+
+---
+
+<img src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif"  width=60% height=40%>
+<h5><i>"Yeay tomorrow is friday 😬"</i></h5>
+
+
+[![Github URL](https://img.shields.io/twitter/url?color=24292e&label=Rqwannn&logo=github&style=flat-square&url=https://github.com/Rqwannn)](https://github.com/Rqwannn)
+![Github URL](https://img.shields.io/twitter/url?color=24292e&label=pureism&logo=github&style=flat-square&url=https://github.com/pureism)
+![Instagram URL](https://img.shields.io/twitter/url?color=e4405f&label=%40ammar__nabil&logo=instagram&style=flat-square&url=https://instagram.com/ammar__nabil)
+![Email URL](https://img.shields.io/twitter/url?color=ea4335&label=mammarnabil%40gmail.com&logo=gmail&style=flat-square&url=https%3A%2F%2Fgmail.com)
+
+[![wakatime](https://wakatime.com/badge/user/3728d51b-5754-4c6c-8d6d-9a2640430efe.svg)](https://wakatime.com/@3728d51b-5754-4c6c-8d6d-9a2640430efe)
+![Viewer](https://komarev.com/ghpvc/?username=Rqwannn)
+
+</div>
