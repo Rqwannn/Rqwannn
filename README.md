@@ -1,10 +1,6 @@
-<p align="center">
-<img align="center" alt="Coding" width="400" src="https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
-</p>
-
 # Hello 👋, My Name Is Raqwan
 
-I'm a Web Developer, Mobile app Developer and Data Science, and Masters in Website and Mobile app Development and able to analyze big data
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&color=2EF77D&center=true&vCenter=true&width=435&lines=%F0%9F%93%8A+Web+Developer;%F0%9F%92%BB+Mobile+App+Developer;%F0%9F%93%84+Love+with+Data)](https://git.io/typing-svg)
 
 ## 🔧 Languages and Tools that i use :
 
