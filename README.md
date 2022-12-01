@@ -37,9 +37,7 @@
 
 <summary>📃 My Stats</summary>
 
-<div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rqwannn&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=fb8c00&text_color=ffffff&langs_count=10&border_color=0d1117)
-</div>
 
 <p style="display:flex;">
 
