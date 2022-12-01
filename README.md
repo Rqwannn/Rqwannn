@@ -1,6 +1,6 @@
 # Hello 👋, My Name Is Raqwan
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&color=2EF77D&width=435&lines=%F0%9F%93%8A+Web+Developer;%F0%9F%92%BB+Mobile+App+Developer;%F0%9F%93%84+Love+with+Data)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&color=2EF77D&width=435&lines=%F0%9F%93%8A+I'Am+Web+Developer;%F0%9F%92%BB+I'Am+Mobile+App+Developer;%F0%9F%93%84+Love+with+Data;%F0%9F%93%84+Cyber+Security+Enthusiast)](https://git.io/typing-svg)
 
 ## 🔧 Languages and Tools that i use :
 
@@ -43,7 +43,7 @@
 
  <img src="https://github-readme-stats.vercel.app/api?username=Rqwannn&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=fb8c00&text_color=ffffff&langs_count=10&border_color=0d1117" width="49%">
 
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rqwannn&theme=tokyonight&bg_color=0d1117&title_color=fb8c00&text_color=ffffff&icon_color=39d353&border_color=0d1117" width="49%">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rqwannn&theme=dark&bg_color=0d1117" width="49%">
 
  </p>
 
