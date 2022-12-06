@@ -21,8 +21,8 @@
 ## 📫 My More Information
 
 - ✏️ Gunadarma University
-- 📫 How to reach me: mraqwan471@gmail.com Or Another My Email: mohwannn1@gmail.com
-- 😄 Next I want to learn VR and Cyber Security
+- 🤖 Next I want to learn VR
+- 😄 My Pronoun He/Him
 - 💬 My official language is Indonesian and I'm also studying English and German
  
  <details>
