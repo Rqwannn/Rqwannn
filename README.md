@@ -1,6 +1,6 @@
 # Hello 👋, My Name Is Raqwan
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&color=2EF77D&width=435&lines=%F0%9F%93%8A+I'Am+Web+Developer;%F0%9F%93%B1+I'Am+Mobile+App+Developer;%F0%9F%93%84+Love+with+Data;%F0%9F%92%BB+Cyber+Security+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&color=2EF77D&width=435&lines=%F0%9F%8C%90+I'Am+Web+Developer;%F0%9F%93%B1+I'Am+Mobile+App+Developer;%F0%9F%93%84+Love+with+Data;%F0%9F%92%BB+Cyber+Security+Enthusiast)](https://git.io/typing-svg)
 
 ## 🔧 Languages and Tools that i use :
 
