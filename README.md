@@ -21,7 +21,7 @@
 ## 📫 My More Information
 
 - ✏️ Gunadarma University
-- 🤖 Next I want to learn VR
+- 🤖 Next I want to deepen the application of AI Algorithms
 - 😄 My Pronoun He/Him
 - 💬 My official language is Indonesian and I'm also studying English and German
  
