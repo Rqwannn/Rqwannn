@@ -188,7 +188,7 @@
       <br>Kali Linux
     </td>
      <td align="center" width="96">
-      <a href="#digitalocean">
+      <a href="#firebase">
         <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
       </a>
       <br>Firebase
@@ -202,6 +202,10 @@
      <td align="center"  width="96">
       <a href="#flutter" target="_blank"> <img src="https://skillicons.dev/icons?i=flutter" alt="react" width="40" height="40"/> </a> 
       <br>Flutter
+    </td>
+      <td align="center"  width="96">
+      <a href="#solidity" target="_blank"> <img src="https://skillicons.dev/icons?i=solidity" alt="react" width="40" height="40"/> </a> 
+      <br>Solidity
     </td>
   </tr>
 
