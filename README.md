@@ -207,6 +207,10 @@
       <a href="#solidity" target="_blank"> <img src="https://skillicons.dev/icons?i=solidity" alt="react" width="40" height="40"/> </a> 
       <br>Solidity
     </td>
+       <td align="center"  width="96">
+      <a href="#perl" target="_blank"> <img src="https://skillicons.dev/icons?i=perl" alt="react" width="40" height="40"/> </a> 
+      <br>Perl
+    </td>
   </tr>
 
 </table>
