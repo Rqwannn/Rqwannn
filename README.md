@@ -211,6 +211,10 @@
       <a href="#perl" target="_blank"> <img src="https://skillicons.dev/icons?i=perl" alt="react" width="40" height="40"/> </a> 
       <br>Perl
     </td>
+        <td align="center"  width="96">
+      <a href="#electronjs" target="_blank"> <img src="https://skillicons.dev/icons?i=electron" alt="react" width="40" height="40"/> </a> 
+      <br>Electron JS
+    </td>
   </tr>
 
 </table>
