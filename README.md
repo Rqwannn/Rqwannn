@@ -160,10 +160,10 @@
       <br>JQuery
     </td>
     <td align="center" width="96">
-      <a href="#laravel">
-        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="Laravel" />
+      <a href="#raspberrypi">
+        <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="48" height="48" alt="Raspberrypi" />
       </a>
-      <br>MySQL
+      <br>Raspberrypi
     </td>
      <td align="center" width="96">
         <a href="#livewire">
@@ -177,7 +177,7 @@
             <img src="https://skillicons.dev/icons?i=pytorch" width="48"
                 height="48" alt="PyTorch" />
         </a>
-        <br>Alpine JS
+        <br>PyTorch
     </td>
  </tr>
 <tr>
