@@ -2,22 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&color=2EF77D&width=435&lines=%F0%9F%8C%90+I'Am+Web+Developer;%F0%9F%93%B1+I'Am+Mobile+App+Developer;%F0%9F%93%84+Love+With+Data;%F0%9F%92%BB+Cyber+Security+Enthusiast)](https://git.io/typing-svg)
 
-## 🔧 Languages and Tools that i use :
-
-<p align="left">
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/images/kali-dragon-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://www.laravel.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="40" height="40"/> </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutterio" width="40" height="40"/> </a>
-  <a href="https://www.php.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/> </a>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="djangoproject/" width="40" height="40"/> </a>
-  <a href="https://www.jquery.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jquery" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-</p>
-
 ## 📫 My More Information
 
 - ✏️ Gunadarma University
@@ -52,6 +36,176 @@
 </details>
 
 </div>
+
+## My favorite tools and technologies ⚙️ 
+
+> Tools and technologies that I have worked with and am interested in
+
+<table align="center">
+
+  <tr>
+     <td align="center" width="96">
+      <a href="#nuxtjs">
+        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
+      </a>
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+      <a href="#laravel">
+        <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="48" height="48" alt="Laravel" />
+      </a>
+      <br>Laravel
+    </td>
+    <td align="center" width="96">
+      <a href="#vuejs">
+        <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="48" height="48" alt="Vuejs" />
+      </a>
+      <br>Vue JS
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+      <br>Django
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+      <br>Rest
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
+      <br>Kubernetes
+    </td>
+</tr>
+
+<tr>
+    <td align="center" width="96">
+      <a href="#git" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
+      <br>Github
+    </td>
+    <td align="center"  width="96">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" alt="Java" />
+      <br>GitLab
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=cassandra" width="48" height="48" alt="Cassandra" />
+      <br>Cassandra
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="redis" />
+      <br>Redis
+    </td>
+</tr>
+<tr>
+     <td align="center" width="96">
+      <a href="#suhailkakar-tech">
+        <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="48" height="48" alt="Nuxtjs" />
+      </a>
+      <br>Nuxt JS
+    </td>
+    <td align="center" width="96">
+      <a href="#ts">
+        <img src="https://skillicons.dev/icons?i=rails" alt="rails" />
+      </a>
+      <br>Rails
+    </td>
+        <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+     <td align="center" width="96">
+      <a href="#aws" target="_blank"> <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="express" width="40" height="40"/> </a>
+      <br>AWS Cloud
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
+      <br>MySQL
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
+      <br>JQuery
+    </td>
+    <td align="center" width="96">
+      <a href="#laravel">
+        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="Laravel" />
+      </a>
+      <br>MySQL
+    </td>
+     <td align="center" width="96">
+        <a href="#livewire">
+            <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48"
+                alt="tensorflow" />
+        </a>
+        <br>Tenforflow
+    </td>
+    <td align="center" width="96">
+        <a href="#alpinejs">
+            <img src="https://skillicons.dev/icons?i=pytorch" width="48"
+                height="48" alt="PyTorch" />
+        </a>
+        <br>Alpine JS
+    </td>
+ </tr>
+<tr>
+     <td align="center" width="96">
+      <a href="#ubuntu" >
+        <img src="https://www.kali.org/images/kali-dragon-icon.svg" width="48" height="48" alt="kali" />
+      </a>
+      <br>Kali Linux
+    </td>
+     <td align="center" width="96">
+      <a href="#digitalocean">
+        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+      </a>
+      <br>Firebase
+    </td>
+      <td align="center"  width="96">
+      <a href="#vscode">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
+      </a>
+      <br>VS Code
+    </td>
+     <td align="center"  width="96">
+      <a href="#flutter" target="_blank"> <img src="https://skillicons.dev/icons?i=flutter" alt="react" width="40" height="40"/> </a> 
+      <br>Flutter
+    </td>
+  </tr>
+
+</table>
 
 <div align="center">
 
