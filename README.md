@@ -166,14 +166,14 @@
       <br>Raspberrypi
     </td>
      <td align="center" width="96">
-        <a href="#livewire">
+        <a href="#tensorflow">
             <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48"
                 alt="tensorflow" />
         </a>
         <br>Tenforflow
     </td>
     <td align="center" width="96">
-        <a href="#alpinejs">
+        <a href="#pytorch">
             <img src="https://skillicons.dev/icons?i=pytorch" width="48"
                 height="48" alt="PyTorch" />
         </a>
