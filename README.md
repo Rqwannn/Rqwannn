@@ -45,7 +45,7 @@
 
   <tr>
      <td align="center" width="96">
-      <a href="#nuxtjs">
+      <a href="#php">
         <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
       </a>
       <br>PHP
@@ -132,13 +132,13 @@
 </tr>
 <tr>
      <td align="center" width="96">
-      <a href="#suhailkakar-tech">
+      <a href="#nuxtjs">
         <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="48" height="48" alt="Nuxtjs" />
       </a>
       <br>Nuxt JS
     </td>
     <td align="center" width="96">
-      <a href="#ts">
+      <a href="#rails">
         <img src="https://skillicons.dev/icons?i=rails" alt="rails" />
       </a>
       <br>Rails
@@ -151,11 +151,11 @@
       <a href="#aws" target="_blank"> <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="express" width="40" height="40"/> </a>
       <br>AWS Cloud
     </td>
-            <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
       <br>MySQL
     </td>
-              <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
       <br>JQuery
     </td>
@@ -182,7 +182,7 @@
  </tr>
 <tr>
      <td align="center" width="96">
-      <a href="#ubuntu" >
+      <a href="#kali" >
         <img src="https://www.kali.org/images/kali-dragon-icon.svg" width="48" height="48" alt="kali" />
       </a>
       <br>Kali Linux
