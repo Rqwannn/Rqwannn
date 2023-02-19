@@ -215,7 +215,8 @@
       <a href="#electronjs" target="_blank"> <img src="https://skillicons.dev/icons?i=electron" alt="react" width="40" height="40"/> </a> 
       <br>Electron JS
     </td>
-     <a href="#vuforia" target="_blank"> <img src="[https://skillicons.dev/icons?i=electron](https://www.ptc.com/dist/ptc/images/ptc-favicon-144x144-gray.png)" alt="vuforia" width="40" height="40"/> </a> 
+   <td align="center"  width="96">
+     <a href="#vuforia" target="_blank"> <img src="https://www.ptc.com/dist/ptc/images/ptc-favicon-144x144-gray.png" alt="vuforia" width="40" height="40"/> </a> 
       <br>Vuforia
     </td>
   </tr>
