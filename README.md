@@ -219,6 +219,10 @@
      <a href="#vuforia" target="_blank"> <img src="https://www.ptc.com/dist/ptc/images/ptc-favicon-144x144-gray.png" alt="vuforia" width="40" height="40"/> </a> 
       <br>Vuforia
     </td>
+    <td align="center"  width="96">
+     <a href="#alibaba cloud" target="_blank"> <img src="https://img.alicdn.com/tfs/TB1ugg7M9zqK1RjSZPxXXc4tVXa-32-32.png_.webp" alt="alibaba cloud" width="40" height="40"/> </a> 
+      <br>Alibaba Cloud
+    </td>
   </tr>
 
 </table>
