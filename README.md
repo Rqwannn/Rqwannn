@@ -122,8 +122,8 @@
       <br>Tailwind
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=cassandra" width="48" height="48" alt="Cassandra" />
-      <br>Cassandra
+        <img src="https://cdn.iconscout.com/icon/free/png-256/elastic-search-3521403-2944847.png?f=webp&w=256" width="48" height="48" alt="Elasticsearch" />
+      <br>Elasticsearch
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="redis" />
