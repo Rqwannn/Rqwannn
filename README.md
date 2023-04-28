@@ -224,6 +224,13 @@
       <br>Alibaba Cloud
     </td>
   </tr>
+ 
+ <tr>
+   <td align="center"  width="96">
+     <a href="#flask" target="_blank"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> 
+      <br>Vuforia
+    </td>
+ </tr>
 
 </table>
 
