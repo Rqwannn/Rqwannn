@@ -228,7 +228,7 @@
  <tr>
    <td align="center"  width="96">
      <a href="#flask" target="_blank"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> 
-      <br>Vuforia
+      <br>Flask
     </td>
  </tr>
 
