@@ -230,6 +230,10 @@
      <a href="#flask" target="_blank"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> 
       <br>Flask
     </td>
+  <td align="center"  width="96">
+     <a href="#mongodb" target="_blank"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> 
+      <br>MongoDB
+    </td>
  </tr>
 
 </table>
