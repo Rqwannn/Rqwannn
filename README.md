@@ -234,6 +234,10 @@
      <a href="#mongodb" target="_blank"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> 
       <br>MongoDB
     </td>
+    <td align="center"  width="96">
+     <a href="#reactjs" target="_blank"> <img src="https://skillicons.dev/icons?i=react" alt="reactjs" width="40" height="40"/> </a> 
+      <br>React JS
+    </td>
  </tr>
 
 </table>
