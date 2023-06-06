@@ -11,9 +11,9 @@
  
  <details>
  <summary><strong>What i am Learning / Working</strong></summary>
-    - 🌐 Web Developer (Laravel, Django, Ruby On Rails, Vue JS, MySQL, Etc) <br>
+    - 🌐 Web Developer (Laravel, Django, Ruby On Rails, Vue JS, MySQL, React JS, Etc) <br>
     - 📱 Mobile Developer (Flutter & Java) <br>
-    - 😣 Machine Learning & Deep Learning <br>
+    - 😣 Machine Learning & Deep Learning ( NLP ) <br>
     - 🖥️ Ethical Hacking
 </details>
 
